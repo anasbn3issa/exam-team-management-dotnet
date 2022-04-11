@@ -1,7 +1,7 @@
 # exam-team-management-dotnet
 academic mini project dotnet Framework 
+#Class Diagram :
 
-##Class Diagram :
 ![Screenshot from 2022-04-11 20-31-02](https://user-images.githubusercontent.com/47992691/162815719-68dc9a04-b2ef-4742-b13b-59755a52d21d.png)
 
 
